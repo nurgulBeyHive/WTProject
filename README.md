@@ -2,6 +2,7 @@
 Project Proposal by Zhaksylyk Zhadyra and Nugumanova Nurgul
 Book Online Shop 
 Client will register in order to create own account where consumer can observe order status and wishlist.  Client will have opportunity to add books to wishlist and cart. 
+![alt text](https://github.com/nurgulBeyHive/WTProject/blob/master/sample.jpg "Logo Title Text 1")
  
 
 The project consists of 9 components: 
