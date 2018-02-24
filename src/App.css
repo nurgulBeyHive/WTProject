@@ -1,0 +1,17 @@
+.book-list{
+  display: flex;
+  flex-direction: row;
+  margin-top: 200px;
+
+}
+
+.app{
+  display: flex;
+  flex-direction: column;
+}
+.cart-mode{
+	position: fixed;
+	display: flex;
+	flex-direction: column;
+	margin-top: 200px;
+}
